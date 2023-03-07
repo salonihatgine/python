@@ -1,0 +1,16 @@
+'''
+DOCSTRING OF A MODULE
+'''
+
+def my _ function():
+'''
+DOCTRING OF A function
+'''
+#BODY
+
+
+class my class:
+'''
+DOSTRING OF class'''
+
+#BODY
