@@ -1,5 +1,5 @@
 '''
-@author: Yogeshwar Shukla 
+@author:Saloni Hatgine
 @date: 12th Jan 23 
 @goal: To demonstrate: 
         detection of error by function definition writer 

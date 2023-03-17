@@ -17,11 +17,10 @@ def main(argc:int, argv:list)->None:
         sys.exit(-1)
 
     f_handle = open(argc[1], "w")
-    print("Yogeshwar Shukla", file=f_handle)
+    print("Saloni Hatgine", file=f_handle)
     print("Founder", file=f_handle)
-    print("CoreCode Programmin Academy", file=f_handle)
-    print("Contact:9561547043", file=f_handle)
-    print("email:coreprogrammingacademy@gmail.com", file=f_handle)
+    print("Contact:7410587871", file=f_handle)
+    print("salonihatgine108@gmail.com", file=f_handle)
     f_handle.close()
 
     sys.exit(0)
